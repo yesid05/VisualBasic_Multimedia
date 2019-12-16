@@ -1,0 +1,45 @@
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\bin\Debug\Paso4Multimedia.exe.config
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\bin\Debug\Paso4Multimedia.exe
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\bin\Debug\Paso4Multimedia.pdb
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\bin\Debug\Paso4Multimedia.xml
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaInicio.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.vbproj.GenerateResource.Cache
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.exe
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.xml
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.pdb
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaVideo.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaAudio.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaTexto.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaImagen.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaMySQL.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaPython.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaScrum.resources
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.vbprojAssemblyReference.cache
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.vbproj.ResolveComReference.cache
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaAudio.resources
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaImagen.resources
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaInicio.resources
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaMySQL.resources
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaPython.resources
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaScrum.resources
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaTexto.resources
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\WindowsApplication1.VentanaVideo.resources
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.exe
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.xml
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\Paso4Multimedia.pdb
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\bin\Debug\Paso4Multimedia.exe.config
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\bin\Debug\Paso4Multimedia.exe
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\bin\Debug\Paso4Multimedia.pdb
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\bin\Debug\Paso4Multimedia.xml
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\PC\source\repos\Paso4Multimedia\Paso4Multimedia\obj\Debug\AxInterop.AcroPDFLib.dll
